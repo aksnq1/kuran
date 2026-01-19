@@ -16,3 +16,23 @@ Kur’an-ı Kerim Türkçe mealli bilgilendirici web sitesi
 <p>5. Bizi doğru yola ilet, nimet verdiğin kimselerin yoluna.</p>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>Kur’an-ı Kerim</title>
+</head>
+<body>
+<h1>Kur’an-ı Kerim</h1>
+
+<p><b>Fâtiha Suresi</b></p>
+<p>1. Rahmân ve Rahîm olan Allah’ın adıyla.</p>
+<p>2. Hamd âlemlerin Rabbi Allah’a mahsustur.</p>
+<p>3. O, Rahmân ve Rahîm’dir.</p>
+<p>4. Din gününün sahibidir.</p>
+<p>5. Yalnız Sana ibadet eder, yalnız Senden yardım dileriz.</p>
+<p>6. Bizi doğru yola ilet.</p>
+<p>7. Nimet verdiklerinin yoluna; gazaba uğrayanların ve sapmışların yoluna değil.</p>
+
+</body>
+</html>
